@@ -1,3 +1,7 @@
+
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/b6543b14-c97e-4003-b5d0-8c1a154c2279" />
+
 # ⚙️ Motor de Simulación de Ventas Automotrices
 
 Este proyecto es un simulador avanzado del ciclo de venta automotriz, diseñado como una herramienta estratégica para analizar el impacto de distintas reglas de negocio, perfiles de cliente y escenarios macroeconómicos en la tasa de conversión de ventas.
